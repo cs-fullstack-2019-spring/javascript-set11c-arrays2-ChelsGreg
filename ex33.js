@@ -17,14 +17,5 @@ while (true) {
 }
 
 console.log(wordList);
-//var userList = [];
 
-
-// if (addWord === 'q') {
-//     console.log("");
-// }
-//
-// else
-//     for (var i=0; i<userList.length; i++) {
-//         console.log(userList[i]); }
 
