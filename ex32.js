@@ -8,6 +8,6 @@ num = ['5', '6', '7', '8','9'];
 
 var askLength = parseInt(prompt("What is the length of the array that you want to print?"));
 
- for (var i=0; i<=askLength; i++)
+ for (var i=0; i<askLength; i++) // Just need to go < index entered since 0 based
  { alert (num[i]); }
 
